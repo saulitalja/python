@@ -13,4 +13,4 @@ COPY hello /app/
 # RUN pip install --no-cache-dir -r requirements.txt
 
 # Käynnistä Python-ohjelma, kun kontti käynnistyy
-CMD ["python", "your_python_script.py"]
+CMD ["python", "hello"]
