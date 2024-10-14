@@ -1,1 +1,3 @@
 print("Hello, terve, hi. moi!")
+print(input())
+
